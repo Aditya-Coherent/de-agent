@@ -16,8 +16,8 @@ output/
 # Claude Code internals
 .claude/
 
-# Data files (user-supplied; too large for git)
-*.xlsx
+# Generated output workbooks only
+output/*.xlsx
 
 # OS
 Thumbs.db
